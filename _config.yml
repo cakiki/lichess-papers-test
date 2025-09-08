@@ -264,7 +264,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  style: chicago
+  style: apa
   locale: en
 
   source: /_bibliography/
