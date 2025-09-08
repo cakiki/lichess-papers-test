@@ -262,6 +262,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
+  verbose: true
   style: apa
   locale: en
 
