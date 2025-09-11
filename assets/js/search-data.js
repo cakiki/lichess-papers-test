@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "A collection of community projects that build atop Lichess",
+          description: "A collection of community projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/lichess-papers-test/repositories/";
