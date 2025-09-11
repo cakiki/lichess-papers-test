@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: A collection of community projects that build atop Lichess
+description: A collection of community projects
 nav: true
 nav_order: 4
 ---
