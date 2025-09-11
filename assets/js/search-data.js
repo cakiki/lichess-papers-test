@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lichess-papers-test/blog/";
           },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "Papers that cite, use, or rely on lichess.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/lichess-papers-test/publications/";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
