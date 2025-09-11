@@ -3,5 +3,5 @@ github_users:
 repo_description_lines_max: 4
 
 github_repos:
-  - lichess-org/database
-  - lichess-org/lila
+  - lichess-bot-devs/lichess-bot
+  - ornicar/lichess-puzzler
