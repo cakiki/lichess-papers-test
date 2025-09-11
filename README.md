@@ -1,1 +1,1 @@
-# lichess papers
+# lichess science and engineering
