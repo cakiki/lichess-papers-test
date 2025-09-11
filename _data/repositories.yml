@@ -1,7 +1,6 @@
 github_users:
-  - lichess-org
 
-repo_description_lines_max: 2
+repo_description_lines_max: 4
 
 github_repos:
   - lichess-org/database
